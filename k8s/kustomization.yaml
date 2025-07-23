@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: leoguerarti/gitopsfc
-  newTag: newTag
+  newTag: 3ae245bdb835b5b1c3713b5ba6ddc81118b9c058
